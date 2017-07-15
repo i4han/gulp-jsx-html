@@ -1,0 +1,24 @@
+{
+  "name": "gulp-jsx-html",
+  "version": "0.0.1",
+  "description": "Gulp plugin for jsx-html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i4han/gulp-jsx-html.git"
+  },
+  "keywords": [
+    "gulp",
+    "jsx",
+    "html"
+  ],
+  "author": "Isaac Han",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/i4han/gulp-jsx-html/issues"
+  },
+  "homepage": "https://github.com/i4han/gulp-jsx-html#readme"
+}
